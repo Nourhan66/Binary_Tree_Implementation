@@ -11,7 +11,7 @@ Adding a new Node in a Binary Tree .
 # In_order :-
    1. Traverse the left subtree .
    2. Visit the root.
-   3.Traverse the right subtree .
+   3. Traverse the right subtree .
    
  # Post_order :-
     1. Traverse the left subtree .
